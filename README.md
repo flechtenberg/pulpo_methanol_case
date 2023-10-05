@@ -10,6 +10,8 @@
 <img src="https://img.shields.io/github/last-commit/flechtenberg/pulpo_methanol_case?style=flat&color=5D6D7E" alt="git-last-commit" />
 <img src="https://img.shields.io/github/commit-activity/m/flechtenberg/pulpo_methanol_case?style=flat&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/languages/top/flechtenberg/pulpo_methanol_case?style=flat&color=5D6D7E" alt="GitHub top language" />
+</p>
+<a href="https://zenodo.org/badge/latestdoi/700827165"><img src="https://zenodo.org/badge/700827165.svg" alt="DOI"></a>
 </div>
 
 ---
