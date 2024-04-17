@@ -66,7 +66,7 @@ To run the assessments you may create a new conda environment e.g. "*pulpo_metha
 pip install -r requirements.txt
 ```
 
-One of the requirements is to have the [PULPO](https://github.com/flechtenberg/pulpo) package installed (for this version, use v0.4.0 of PULPO).
+One of the requirements is to have the [PULPO](https://github.com/flechtenberg/pulpo) package installed (for this version, use v0.0.4 of PULPO).
 
 
 ---
