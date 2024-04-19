@@ -19,7 +19,6 @@
 ## 📖 Table of Contents
 - [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [📂 Repository Structure](#-repository-structure)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
 
@@ -32,31 +31,9 @@ This repository contains the code used to perform the assessments in the submitt
 
 The code for creating the Figures as post-processing of the assessment results can also be found here.
 
----
+Moreover, the main folder of this repository contains the final underlying data used to create the Figures in the manuscript.
 
 
-## 📂 Repository Structure
-
-```sh
-└── pulpo_methanol_case/
-    ├── Code/
-    │   ├── 00_install_methanol_case_study_db.ipynb
-    │   ├── 01_methanol_case_study.ipynb
-    │   ├── 02_methanol_demand_loop.ipynb
-    │   ├── 03_methanol_other_indicator.ipynb
-    │   ├── 04_decrypt_iam_output.ipynb
-    │   └── 05_pulpo_install_premise_dbs.ipynb
-    └── Figures/
-        ├── Figure_5.ipynb
-        ├── Figure_6.ipynb
-        ├── Figure_7.ipynb
-        ├── Figure_S1.ipynb
-        ├── Figure_S6.ipynb
-        ├── Figure_S7.ipynb
-        ├── Figure_S7_pie.ipynb
-        ├── Input/
-        └── Output/
-```
 ---
 
 ### 🤖 Running pulpo_methanol_case
